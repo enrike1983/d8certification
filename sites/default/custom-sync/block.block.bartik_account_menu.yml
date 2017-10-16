@@ -1,0 +1,26 @@
+uuid: 6bfa4e7f-572f-498a-b0a9-99b77e9cc8cd
+langcode: it
+status: true
+dependencies:
+  config:
+    - system.menu.account
+  module:
+    - system
+  theme:
+    - bartik
+_core:
+  default_config_hash: DweBpscQZdG0-fHkSpUzdYucrNH45G_KF7Z82V-oyQM
+id: bartik_account_menu
+theme: bartik
+region: secondary_menu
+weight: 0
+provider: null
+plugin: 'system_menu_block:account'
+settings:
+  id: 'system_menu_block:account'
+  label: 'Menu profilo utente'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+visibility: {  }

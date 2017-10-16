@@ -1,0 +1,14 @@
+uuid: 6287b4a2-1ca0-4b8b-8f96-4c3426eaab4e
+name: Drupal
+mail: d8cert@test.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: it
+default_langcode: it
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo

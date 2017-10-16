@@ -1,0 +1,13 @@
+uuid: a5bfa9da-ce8c-4c7c-ba22-a78c1b16af01
+langcode: it
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AeW1SEDgb1OTQACAWGhzvMknMYAJlcZu0jljfeU3oso
+name: Articolo
+type: article
+description: 'Usa gli <em>articoli</em> per contenuti come notizie, comunicati stampa o post di un blog.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true
